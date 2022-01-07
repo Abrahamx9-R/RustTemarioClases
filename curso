@@ -1,0 +1,42 @@
+ ## curso rust
+
+ 1: Introduccion
+ 2: instalacion rust
+ 3: hola mundo
+ 4: Cargo
+ 5: Variables
+ 6: Constantes
+ 7: Shadowing
+ 8: Leer por teclado
+ 9: Tipos de datos
+ 10: Operadores
+ 11: Arreglos
+ 12: Tuplas
+ 13: Vectores
+ 14: Vectores 2
+ 15: Condicionales
+ 16: Bloques
+ 17: Bloques 2
+ 18: Loop
+ 19: Ciclo for
+ 20: Ciclo while
+ 21: Match
+ 22: Match 2
+ 23: Enums
+ 24: Funciones
+ 25: Return
+ 26: Stack y Heap
+ 27: Strings
+ 28: Estructuras
+ 29: Ownership
+ 30: Ownership 2
+ 31: Metodos
+ 32: Estructuras tipo Tuplas
+ 33: Slices
+ 34: Panic
+ 35: Option
+ 35: Options y Estructuras
+ 36: Some y Match
+ 37: Result
+ 38: Result Enums
+ 38: Metodos de Result
